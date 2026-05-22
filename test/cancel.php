@@ -1,0 +1,1 @@
+<h1>You cancelled the purchase</h1>
